@@ -1,0 +1,5 @@
+Address_Net10Data.csvを使用します。
+
+よって、
+Address_Net10Data（リンク構成）.csv　または　Address_Net10Data（設定分のみ）.csv
+の使用したいファイルのファイル名の()間を削除し使用してください。
